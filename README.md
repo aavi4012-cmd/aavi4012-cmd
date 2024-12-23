@@ -69,7 +69,7 @@
     <a href="https://github.com/aavi4012-cmd" title="Go to Source">
       <img width=400 src="https://github-readme-stats.vercel.app/api?username=aavi4012-cmd&show_icons=true&theme=transparent&hide_border=true&hide_rank=false" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/mendraniavinash" title="Go to Source">
+    <a href="https://github.com/aavi4012-cmd" title="Go to Source">
       <img width=400 src="https://streak-stats.demolab.com/?user=aavi4012-cmd&theme=transparent&hide_border=true" />
     </a>
   </div>
