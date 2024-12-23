@@ -5,7 +5,7 @@
 
 
 ## [![](https://visitcount.itsvg.in/api?id=mreshank&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
- <img align = '<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GRPy8MKag9U1U88hzY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY">via GIPHY</a></p>&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"> <h2> Hi, I'm <strong> Mendrani Avinash </strong>. ☺</h2> <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
+ <img align = 'left' src="https://media1.giphy.com/media/INWvHtY18ElyvtEdS2/200w.webp?cid=ecf05e4791xr3aiioli373i3p495euquk08zcpl7zzipcp00&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"> <h2> Hi, I'm <strong> Eshank Tyagi </strong>. ☺</h2> <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 <img align = 'right' src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/200w.webp?cid=ecf05e47ftec81a6c31a10x5cz784x46nc9jrms0zxtsrd6v&ep=v1_gifs_related&rid=200w.webp&ct=s" width="275" style="border-radius: 50; transform: scaleX(-1);"></br>
 
 <p>
