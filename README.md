@@ -23,12 +23,7 @@
 ## 
 <img align='left' src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50">  
 <h2>  Let's Connect ♥ </h2> </br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mendraniavinash)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendraniavinash)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mendraniavinash)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mendraniavinash)  
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmz0KSVA40atJqEoKAkFulw)
 
 </br>
 
