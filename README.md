@@ -1,6 +1,6 @@
 <!-- **mendraniavinash/mendraniavinash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![header]((https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
 ## [![](https://visitcount.itsvg.in/api?id=mendraniavinash&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <img align='left' src="https://media1.giphy.com/media/INWvHtY18ElyvtEdS2/200w.webp?cid=ecf05e4791xr3aiioli373i3p495euquk08zcpl7zzipcp00&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50">  
