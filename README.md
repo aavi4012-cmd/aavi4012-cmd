@@ -10,11 +10,11 @@
 
 <p>
 <em>
-    🌟 Pursuing a <strong>B.Tech in Computer Science Engineering</strong> </br>
+    🌟 Aspiring <strong>Software Developer</strong>, specializing in <strong>Computer Science Engineering</strong> </br>
     📍 <a href="https://shivalikcollege.edu.in/">Shivalik College of Engineering</a>
     <img src="https://i.giphy.com/5HPUYijRDK3gRpMKXw.webp" width="20" alt="location-pin">
     </br></br>
-    🚀 Passionate about <strong>Web Development</strong> and contributing to <strong>Open Source</strong>
+    🚀 Exploring innovative solutions in <strong>Web Development</strong> and advancing <strong>Open Source Contributions</strong>
     <img src="https://i.giphy.com/hS42TuYYnANLFR9IRQ.webp" width="20" alt="rocket">
     </br></br>
 </em>
@@ -25,51 +25,37 @@
 <img align='left' src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50">  
 <h2>  Let's Connect ♥ </h2> </br>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendraniavinash/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendraniavinash)  
 
 
 </br>
 
 ## 
 <img align='left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d0cXJmMzB3bG4weWZxOGRhcmd0MWYyc2JjNW9vejFyZXZlN3pvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">  
-<h2> 💻 Tech Stack </h2> </br>
+<h2>  Tech Stack </h2> </br>
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center;">
-    <div align="center" style="display: flex; align-items: center; gap: 15px;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="67" height="67" style="animation: float 4s ease-in-out infinite;">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="67" height="67" style="animation: float 4s ease-in-out infinite;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="67" height="67" style="animation: float 4s ease-in-out infinite;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="67" height="67" style="animation: float 4s ease-in-out infinite;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="67" height="67" style="animation: float 4s ease-in-out infinite;">
+<div align="center" style="display: flex; flex-direction: column; justify-content: space-evenly;">
+    <div align="center" style="display: flex; align-items: center; justify-content: center; justify-content: space-evenly;">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="67" height="67" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="67" height="67" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="67" height="67" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="67" height="67" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="67" height="67" />
     </div>
     <br>
 
-<div align="center">
-        <img src="https://skillicons.dev/icons?i=c,java,python,cpp,github,js,html,css,git,firebase,vscode" alt="Tech Stack" style="width: 100%; max-width: 600px; animation: pulse 3s infinite;">
-    </div>
-
-<style>
-        @keyframes float {
-            0%, 100% {
-                transform: translateY(0);
-            }
-            50% {
-                transform: translateY(-10px);
-            }
-        }
-
-        @keyframes pulse {
-            0% {
-                transform: scale(1);
-            }
-            50% {
-                transform: scale(1.05);
-            }
-            100% {
-                transform: scale(1);
-            }
-        }
-  </style>
+![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)          
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java)          
+![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)          
+![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)          
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)          
+![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)          
+![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)          
+![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)          
+![css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)          
+![firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)          
+![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</br>
+</div>
 
 </br>
 
