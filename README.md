@@ -69,8 +69,7 @@
                 transform: scale(1);
             }
         }
-    </style>
-</div>
+  </style>
 
 </br>
 
