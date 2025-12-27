@@ -1,77 +1,84 @@
-<!-- **mendraniavinash/mendraniavinash** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. -->
+<h1 align="center">Mendrani Avinash</h1>
+<h3 align="center">Aspiring Software Developer | Computer Science Engineer</h3>
 
-![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
-
-## [![](https://visitcount.itsvg.in/api?id=mendraniavinash&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-<img align='left' src="https://media1.giphy.com/media/INWvHtY18ElyvtEdS2/200w.webp?cid=ecf05e4791xr3aiioli373i3p495euquk08zcpl7zzipcp00&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50">  
-<h2> Hi, I'm <strong> Mendrani Avinash </strong>. ☺</h2> 
-
-<img align='right' src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/200w.webp?cid=ecf05e47ftec81a6c31a10x5cz784x46nc9jrms0zxtsrd6v&ep=v1_gifs_related&rid=200w.webp&ct=s" width="275" style="border-radius: 50; transform: scaleX(-1);"></br>
-
-<p>
-   <em>
-    🌟 Aspiring <strong>Software Developer</strong>, specializing in <strong>Computer Science Engineering</strong> </br>
-    📍 <a href="https://shivalikcollege.edu.in/">Shivalik College of Engineering</a>
-    <img src="https://i.giphy.com/5HPUYijRDK3gRpMKXw.webp" width="20" alt="location-pin">
-    </br></br>
-    🚀 Exploring innovative solutions in <strong>Web Development</strong> and advancing <strong>Open Source Contributions</strong>
-    <img src="https://i.giphy.com/hS42TuYYnANLFR9IRQ.webp" width="20" alt="rocket">
-    </br></br>
-</em>
-
+<p align="center">
+  <a href="mailto:aavi4012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aavi4012@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mendraniavinash">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://visitcount.itsvg.in/api?id=mendraniavinash&label=Profile%20Views&pretty=true"/>
 </p>
 
-## 
-<img align='left' src="https://media4.giphy.com/media/14D80hPRCWWnGeyRlY/giphy.gif?cid=ecf05e47hm4poo8te3a0ii5sijufol9zapzz80doaj0nojfz&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50">  
-<h2>  Let's Connect ♥ </h2> </br>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendraniavinash)  
+---
 
+## 👋 About Me
 
-</br>
+I am **Mendrani Avinash**, a **Computer Science Engineering student** at  
+🎓 **Shivalik College of Engineering**.
 
-## 
-<img align='left' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d0cXJmMzB3bG4weWZxOGRhcmd0MWYyc2JjNW9vejFyZXZlN3pvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">  
-<h2>  Tech Stack </h2> </br>
+I am passionate about developing efficient, scalable, and impactful software solutions. My interests include **Web Development**, **Open Source**, and strengthening my core programming and problem-solving skills.
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: space-evenly;">
-    <div align="center" style="display: flex; align-items: center; justify-content: center; justify-content: space-evenly;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="67" height="67" />
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="67" height="67" />
-    </div>
-    <br>
+- 💻 Proficient in **C, C++, Java, Python**
+- 🌐 Exploring **Web Development**
+- 🚀 Active learner and contributor
+- 🤝 Open to collaboration and internships
 
-![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)          
-![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java)          
-![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)          
-![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)          
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)          
-![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)          
-![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)          
-![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)          
-![css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)          
-![firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)          
-![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</br>
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🌐 Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aavi4012-cmd&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aavi4012-cmd&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aavi4012-cmd&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aavi4012-cmd&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aavi4012-cmd&theme=dark"/>
 </div>
 
-</br>
+---
 
-## 
-<img align='left' src="https://media1.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif?cid=ecf05e47wewxviqsc0c4ttaghuas9e12h6v5mqwnwd8uunbv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">  
-<h2 align="start"> GitHub Status ╞╕ </h2> </br>
+## 🔥 GitHub Streak
 
-<h2 </h2>
-
-<div align="center" >
-  <div>
-    <a href="https://github.com/aavi4012-cmd" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=aavi4012-cmd&show_icons=true&theme=transparent&hide_border=true&hide_rank=false" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/aavi4012-cmd" title="Go to Source">
-      <img width=400 src="https://streak-stats.demolab.com/?user=aavi4012-cmd&theme=transparent&hide_border=true" />
-    </a>
-  </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=aavi4012-cmd&theme=transparent&hide_border=true"/>
 </div>
+
+---
+
+## 🏆 Open Source & Badges
+
+[![Holopin Badges](https://holopin.me/aavi4012)](https://holopin.io/@aavi4012)
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** aavi4012@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mendraniavinash  
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Thanks+for+visiting!;Mendrani+Avinash;Always+Learning+🚀">
+</h3>
