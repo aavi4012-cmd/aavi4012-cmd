@@ -1,8 +1,6 @@
 <!-- Dynamic Profile Header -->
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png" alt="header" />
 
 <!-- Animated Dev GIF (Hero) -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="developer working" />
