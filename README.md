@@ -104,7 +104,7 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
-## 💼 Experience (From LinkedIn PDF)
+## 💼 Experience 
 
 - **Researcher** — Universidade do Porto  
 - **Software Developer Intern** — Meta Master  
