@@ -1,6 +1,8 @@
 <!-- Dynamic Profile Header -->
 <div align="center">
 
+<!-- Animated Banner -->
+<img src="https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png" alt="header" />
 
 <!-- Animated Dev GIF (Hero) -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="developer working" />
@@ -8,7 +10,7 @@
 <!-- Typing SVG Title -->
 <h1>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Yo!+I'm+Mendrani+Avinash+%F0%9F%91%8B;Researcher+%40+Universidade+do+Porto;SDE+Intern+%40+Meta+Master;Ex-Intern+%40+Adobe+%7C+ValscoTech+%7C+BusinessRoom+%7C+GBJ+BUZZ+%7C+Legabyte;5x+Hackathon+Finalist+%7C+LC+1900%2B+%7C+GFG+4%E2%98%85+%7C+CC+3%E2%98%85;President+%40+GeeksforGeeks+SCE+Chapter"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=Yo!+I'm+Mendrani+Avinash+%F0%9F%91%8B;Researcher+%40+Universidade+do+Porto;SDE+Intern+%40+Meta+Master;Ex-Intern+%40+Adobe+%7C+ValscoTech+%7C+BusinessRoom+%7C+GBJ+BUZZ+%7C+Legabyte;5x+Hackathon+Finalist+%7C+LC+1900%2B+%7C+GFG+4%E2%98%85+%7C+CC+3%E2%98%85;President+%40+GeeksforGeeks+SCE+Chapter;Build.+Learn.+Ship.+Repeat.+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </h1>
@@ -36,6 +38,9 @@
   <img src="https://img.shields.io/github/stars/aavi4012-cmd?style=social" alt="GitHub Stars" />
 </p>
 
+<!-- Aesthetic Wave Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <!-- Fun Animated Text -->
 <p>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowNHpidmw3eTZ2a2FsdTZmdXMwajk5ZWtkZDZwbTYyN2Ywd2s4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gICHyJvtS2YM1iW5NJ/giphy.gif" width="20" />
@@ -47,6 +52,7 @@
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
@@ -66,6 +72,7 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
@@ -98,6 +105,7 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
@@ -141,6 +149,7 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
@@ -156,6 +165,7 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
@@ -166,6 +176,7 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
@@ -178,27 +189,46 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
-## 📊 Skills Meter
+## 🐍 Contribution Snake (Animated)
 
-- **DSA / Problem Solving:** ██████████ 10/10  
-- **AI/ML:** ████████░░ 8/10  
-- **Backend (Node.js):** ███████░░░ 7/10  
-- **Full-Stack Building:** ████████░░ 8/10  
-- **Leadership:** █████████░ 9/10  
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/aavi4012-cmd/aavi4012-cmd/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
+</div>
 
-<br/>
+> ✅ IMPORTANT: This snake animation will work only after you enable the GitHub Action (instructions below).
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<details>
+  <summary><b>⚙️ Enable Snake Animation (Click to expand)</b></summary>
 
-<br/>
+1. Go to your GitHub profile repo: **aavi4012-cmd/aavi4012-cmd**
+2. Create this folder: `.github/workflows/`
+3. Create file: `snake.yml` inside it
+4. Paste this code:
 
-## 🔥 Current Focus
+```yml
+name: Generate Snake
 
-```typescript
-const currentFocus = {
-  core: ["Python", "Java", "C++", "DSA"],
-  development: ["JavaScript", "Node.js", "MongoDB", "Full-stack"],
-  focus: ["AI/ML", "Research", "Problem Solving", "Product Building"],
-  leadership: ["GFG Chapter President", "Teaching Assistant"],
-  mindset: "Build. Learn. Ship. Repeat. 🚀"
-};
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: aavi4012-cmd
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate snake animation"
+          add: "output/*.svg"
