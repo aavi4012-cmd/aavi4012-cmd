@@ -4,6 +4,9 @@
 <!-- Animated Banner -->
 <img src="https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png" alt="header" />
 
+<!-- Animated Dev GIF (Hero) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="developer working" />
+
 <!-- Typing SVG Title -->
 <h1>
   <img
@@ -18,6 +21,14 @@
   <img src="https://img.shields.io/badge/Intern-SDE%20Intern%20%40%20Meta%20Master-00BCD4?style=for-the-badge" alt="Intern" />
   <img src="https://img.shields.io/badge/Leadership-President%20%40%20GFG%20Chapter-4CAF50?style=for-the-badge" alt="Leadership" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Problem%20Solving-FF6B6B?style=for-the-badge" alt="Focus" />
+</p>
+
+<!-- Quick Personal Stats Badges -->
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-1900%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-4%E2%98%85-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+  <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/Hackathons-5x%20Finalist-8A2BE2?style=for-the-badge" alt="Hackathons" />
 </p>
 
 <!-- Dynamic Profile Stats -->
@@ -54,6 +65,38 @@
 
 I’m a passionate B.Tech student (CSE - AIML) focused on **AI/ML** and **software engineering**, with strong fundamentals in coding & problem solving.  
 I enjoy building real products, exploring innovative solutions, and collaborating with people who love shipping cool things.
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 🎬 Realistic Dev Moments
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="padding:12px;">
+      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" /><br/>
+      <b>🐛 Debug Mode</b><br/>
+      <sub>Fix → Test → Repeat</sub>
+    </td>
+    <td align="center" style="padding:12px;">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" /><br/>
+      <b>☕ Coffee Driven</b><br/>
+      <sub>Energy = commits</sub>
+    </td>
+    <td align="center" style="padding:12px;">
+      <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="180" /><br/>
+      <b>🏁 Ship Fast</b><br/>
+      <sub>Hackathons + products</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -104,7 +147,7 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 
 <br/>
 
-## 💼 Experience 
+## 💼 Experience
 
 - **Researcher** — Universidade do Porto  
 - **Software Developer Intern** — Meta Master  
@@ -112,8 +155,6 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 - **President** — GeeksforGeeks SCE Chapter (First-ever club launched with my contribution ✅)  
 - **Founder** — Thrift Store  
 - **Freelance / Internships** — Nexora Tech, Outlier, Valsco Technology, BusinessRoom, GBJ BUZZ, GeeksforGeeks, Legabyte, Adobe
-
-> If you want, I can also convert each role into strong bullet points (impact + tech + achievements) — just tell me which 3–4 roles you want highlighted most.
 
 <br/>
 
@@ -134,10 +175,22 @@ I enjoy building real products, exploring innovative solutions, and collaboratin
 ## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,nodejs,mongodb,git,github,vscode,postman,docker" height="50" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,nodejs,mongodb,git,github,vscode,postman,docker&perline=6" height="55" />
 </div>
+
+<br/>
+
+## 📊 Skills Meter
+
+- **DSA / Problem Solving:** ██████████ 10/10  
+- **AI/ML:** ████████░░ 8/10  
+- **Backend (Node.js):** ███████░░░ 7/10  
+- **Full-Stack Building:** ████████░░ 8/10  
+- **Leadership:** █████████░ 9/10  
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
 
