@@ -49,7 +49,7 @@
 - **Highlights:** 5× Hackathon Finalist • LeetCode 1900+ • GFG 4★ • CodeChef 3★
 
 📫 **Email:** aavi4012@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mendrani-avinash-3b8b23242/
+🔗 **LinkedIn:** https://www.linkedin.com/in/mendrani-avinash-8a4000344/
 
 I’m a passionate B.Tech student (CSE - AIML) focused on **AI/ML** and **software engineering**, with strong fundamentals in coding & problem solving.  
 I enjoy building real products, exploring innovative solutions, and collaborating with people who love shipping cool things.
