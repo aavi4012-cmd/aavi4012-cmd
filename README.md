@@ -48,7 +48,7 @@
 - **President:** GeeksforGeeks SCE Chapter  
 - **Highlights:** 5× Hackathon Finalist • LeetCode 1900+ • GFG 4★ • CodeChef 3★
 
-📫 **Email:** aavi4012@gmail.com  
+📫 **Email:** heyitzavinash@gmail.com 
 🔗 **LinkedIn:** https://www.linkedin.com/in/mendrani-avinash-8a4000344/
 
 I’m a passionate B.Tech student (CSE - AIML) focused on **AI/ML** and **software engineering**, with strong fundamentals in coding & problem solving.  
