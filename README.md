@@ -203,12 +203,6 @@ contact     : heyitzavinash@gmail.com
 ### 🤖 AI / ML Engineering
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5" height="52" />
 <br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Vector DB](https://img.shields.io/badge/Vector%20DBs-Pinecone%20%7C%20Weaviate-6366F1?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Systems-7C3AED?style=for-the-badge)
-
 ### 🔧 Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,django,nextjs,react&perline=7" height="52" />
 
@@ -218,10 +212,6 @@ contact     : heyitzavinash@gmail.com
 ### ☁️ Cloud, DevOps & Infra
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,linux&perline=6" height="52" />
 <br/>
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-06B6D4?style=for-the-badge)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
