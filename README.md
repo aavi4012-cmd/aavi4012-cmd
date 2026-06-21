@@ -199,16 +199,16 @@ contact     : heyitzavinash@gmail.com
 
 ### ⚡ Core Languages
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&perline=5" height="52" />
-
+<br/>\
 ### 🤖 AI / ML Engineering
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5" height="52" />
-<br/>
+<br/>\
 ### 🔧 Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,django,nextjs,react&perline=7" height="52" />
-
+<br/>\
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&perline=4" height="52" />
-
+<br/>\
 ### ☁️ Cloud, DevOps & Infra
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,linux&perline=6" height="52" />
 <br/>
