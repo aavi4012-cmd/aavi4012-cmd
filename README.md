@@ -203,7 +203,6 @@ contact     : heyitzavinash@gmail.com
 ### 🤖 AI / ML Engineering
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5" height="52" />
 <br/>\
-### 🔧 Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,django,nextjs,react&perline=7" height="52" />
 <br/>\
 ### 🗄️ Databases
